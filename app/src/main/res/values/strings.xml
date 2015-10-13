@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nuevo1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_frases">FrasesActivity</string>
+    <string name="title_activity_senales">SenalesActivity</string>
+    <string name="title_activity_categorias">CategoriasActivity</string>
+</resources>
